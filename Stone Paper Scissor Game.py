@@ -1,3 +1,8 @@
+# This is Stone Paper Scissor Game made in Python.
+# Using Only Random Module.
+# GUI version Releasing Soon.
+
+
 import random
 
 def wrong_input():
